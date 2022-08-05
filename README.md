@@ -1,6 +1,6 @@
 <img  src="https://www.aaditritechnology.com/images/redesign.gif">
 
-<h1 align="center">Hi 👋, I'm Moh Shahrukh Khan</h1>
+<h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 <h3 align="center">A passionate Backend Java developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
