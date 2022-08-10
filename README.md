@@ -38,15 +38,15 @@ Here are some ideas to get you started:
 -->
 <br/>
 ❤ Views and Followers <br/>
-<a href="https://github.com/akashk808443/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=akashk808443">
+<a href="https://github.com/nitish906/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=nitish906">
 </a>
-<a href="https://github.com/akashk808443?tab=followers"><img src="https://img.shields.io/github/followers/akashk808443?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/nitish906?tab=followers"><img src="https://img.shields.io/github/followers/akashk808443?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
 Connect with me:
 <br/>
 <p align="left">
-<a href = "https://www.linkedin.com/in/akashk808443"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/nitish009/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://www.instagram.com/__its__me__dude__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 </p>
 <br/>
