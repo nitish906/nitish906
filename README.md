@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
+<img src="https://activity-graph.herokuapp.com/graph?username=nitish906&theme=xcode">
 
 <img src="https://github-profile-trophy.vercel.app/?username=nitish906&theme=monokai&row=1&column=4">
 <h3>When not coding:</h3>
