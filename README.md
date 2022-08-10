@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/nitish906/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nitish906">
 </a>
-<a href="https://github.com/nitish906?tab=followers"><img src="https://img.shields.io/github/followers/akashk808443?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/nitish906?tab=followers"><img src="https://img.shields.io/github/followers/nitish906?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
 Connect with me:
 <br/>
@@ -55,8 +55,6 @@ Connect with me:
 
 
 <h2>Languages and Tools:</h2>
-
-
 
 
 <p float="left" margin:"2%;" > 
@@ -86,12 +84,6 @@ Writing(Blog & Contend) ✍️<br>
 Travelling(Historical Places) 🏍️<br>
 Exercise 🏋🏻‍♂️<br>
 Creating Podcast &#127925;	<br>
-
-<h2>Connect with me at:</h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
-<a href="https://www.linkedin.com/in/nitish009/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-jadhav-7809b7196" height="30" width="40" style="max-width: 100%; "></a> &nbsp; 
-<a href="https://www.facebook.com/nitish905"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
-<a href="[https://www.youtube.com/watch?v=YAP89umHjZ4](https://www.youtube.com/channel/UCgW7q3l7HgfTmTHNkbFCmPQ)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
-
 
 <code>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
