@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/tazammul1683/">
   <img align="left" alt="Tazammul's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
 </a>
-<a href="https://github.com/nitish906?tab=followers"><img src="https://img.shields.io/github/followers/nitish906?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- <a href="https://github.com/nitish906?tab=followers"><img src="https://img.shields.io/github/followers/nitish906?label=Followers&style=social" alt="GitHub Badge"></a> -->
 <br/>
 Connect with me:
 <br/>
