@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <h2>Stats</h2>
 
-if you like what i do, maybe consider buying me a coffee/tea
+<h3>if you like what i do, maybe consider buying me a coffee/tea</h3>
 
 <a href="https://www.buymeacoffee.com/Tazammul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br>
