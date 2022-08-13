@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi there👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Nitish+Kumar!;Learning+Java+Back-end+Development...;" style="width: 100%;">
 
@@ -94,6 +94,10 @@ Writing(Blog & Contend) ✍️<br>
 Travelling(Historical Places) 🏍️<br>
 Exercise 🏋🏻‍♂️<br>
 Creating Podcast &#127925;<br>
+<br>
+if you like what i do, maybe consider buying me a coffee/tea
+
+<a href="https://www.buymeacoffee.com/Tazammul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br>
 _______________________________________________________________________________________________________________________________________________________
 <code>
