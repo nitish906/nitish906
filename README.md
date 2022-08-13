@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 -->
 <br/>
 ❤ Views and Followers <br/>
-<a href="https://twitter.com/MTazammul">
+<!-- <a href="https://twitter.com/MTazammul">
   <img align="left" alt="Mohd Tazammul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/mohd-tazammul-a97a04150/">
   <img align="left" alt="Tazammul's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
-<a href="https://leetcode.com/Mohd-Tazammul/">
+<a href="https://leetcode.com/nitish905/">
   <img align="left" alt="Tazammul's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 <h2>Stats</h2>
 
-<h3>if you like what i do, maybe consider buying me a coffee/tea</h3>
+<h4>if you like what i do, maybe consider buying me a coffee/tea</h4>
 
 <a href="https://www.buymeacoffee.com/Tazammul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br>
