@@ -38,8 +38,20 @@ Here are some ideas to get you started:
 -->
 <br/>
 ❤ Views and Followers <br/>
-<a href="https://github.com/nitish906/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=nitish906">
+<a href="https://twitter.com/MTazammul">
+  <img align="left" alt="Mohd Tazammul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mohd-tazammul-a97a04150/">
+  <img align="left" alt="Tazammul's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
+</a>
+
+<a href="https://leetcode.com/Mohd-Tazammul/">
+  <img align="left" alt="Tazammul's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
+</a>
+
+
+<a href="https://www.hackerrank.com/tazammul1683/">
+  <img align="left" alt="Tazammul's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
 </a>
 <a href="https://github.com/nitish906?tab=followers"><img src="https://img.shields.io/github/followers/nitish906?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
