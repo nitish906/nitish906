@@ -8,7 +8,7 @@ and always looking to find patterns of which are helful in learning Back-end Dev
  
 
 
- 💬 About me ...<br>
+ 💬 About me ..<br>
 <ul>
   <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
 <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
