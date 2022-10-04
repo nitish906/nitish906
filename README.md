@@ -14,12 +14,20 @@
 <!--   <li>📰 My First Web Page_________________________________</li> -->
 </ul>
 👯 I’m looking to collaborate on ..
+
 <ul>
   <li>Open source Projects</li>
   <!-- <li>Full-stack Development</li> -->
   <li>Java Back-end Development</li>
 </ul>
 
+👨‍💻 All of my projects are available at <a href="https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=sharing" target="_blank"> My Portfolio </a>
+
+👨‍💻 <a href="https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=sharing" target="_blank"> My Resume </a>
+
+💬 Ask me about Java,mySql,Spring,REST Api
+
+📫 How to reach me nk628497@gmail.com
 
 <!--
 **abhinavgujral/abhinavgujral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
