@@ -2,10 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Nitish+Kumar!;Learning+Java+Back-end+Development...;" style="width: 100%;">
 
-
 <h4> A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.<h4/>
  
-
 
  💬 About me ..<br>
 <ul>
@@ -70,9 +68,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
 <h2>Languages and Tools:</h2>
-
 
 <p float="left" margin:"2%;" > 
 <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a>  &nbsp;   &nbsp;
@@ -86,7 +82,6 @@ Here are some ideas to get you started:
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
 </p>
-
 
 <h2>Stats</h2>
 
