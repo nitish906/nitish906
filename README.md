@@ -19,7 +19,7 @@
   <li>Java Back-end Development</li>
 </ul>
 
-👨‍💻 All of my projects are available at <span> <a href="https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=sharing" target="_blank"> My Portfolio </a></span>
+👨‍💻 All of my projects are available at <span> <a href="https://nitishkumar-fp02-003.netlify.app/" target="_blank"> My Portfolio </a></span>
 
 👨‍💻  <span> <a href="https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=sharing" target="_blank"> My Resume </a> </span>
 
