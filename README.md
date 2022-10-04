@@ -21,9 +21,9 @@
   <li>Java Back-end Development</li>
 </ul>
 
-👨‍💻 All of my projects are available at <a href="https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=sharing" target="_blank"> My Portfolio </a>
+👨‍💻 All of my projects are available at <span> <a href="https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=sharing" target="_blank"> My Portfolio </a></span>
 
-👨‍💻 <a href="https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=sharing" target="_blank"> My Resume </a>
+👨‍💻  <span> <a href="https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=sharing" target="_blank"> My Resume </a> </span>
 
 💬 Ask me about Java,mySql,Spring,REST Api
 
