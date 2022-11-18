@@ -3,44 +3,27 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Nitish+Kumar!;Learning+Java+Back-end+Development...;" style="width: 100%;">
 
 <h4> A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.<h4/>
- 
 
- 💬 About me ..<br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+ 
+ 💬 About me ...<br>
 <ul>
   <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
 <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
-<!--   <li>📰 My First Web Page_________________________________</li> -->
+<!--   <li>📰 My First Web Page_____________</li> -->
 </ul>
 👯 I’m looking to collaborate on ..
-
 <ul>
   <li>Open source Projects</li>
   <!-- <li>Full-stack Development</li> -->
   <li>Java Back-end Development</li>
 </ul>
 
-👨‍💻 All of my projects are available at <span> <a href="https://nitishkumar-fp02-003.netlify.app/" target="_blank"> My Portfolio </a></span>
+- 📫 How to reach me **nk628497@gmail.com**
+- 👨‍💻 Checkout my Portfolio [Nitish Kumar](https://nitishkumar-fp02-003.netlify.app/)
+- 💻 Checkout my Resume [Nitish_Kumar_Resume](https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=share_link)
+- 💬 Ask me about Java,mySql,Spring,REST Api
 
-👨‍💻  <span> <a href="https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=sharing" target="_blank"> My Resume </a> </span>
-
-💬 Ask me about Java,mySql,Spring,REST Api
-
-📫 How to reach me nk628497@gmail.com
-
-<!--
-**abhinavgujral/abhinavgujral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <br/>
 ❤ Views and Followers <br/>
 <!-- <a href="https://twitter.com/MTazammul">
@@ -80,29 +63,34 @@ Here are some ideas to get you started:
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img  alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
-</p>
-
-<h2>Stats</h2>
-
-<h4>if you like what i do, maybe consider buying me a coffee/tea</h4>
-
-<a href="https://www.buymeacoffee.com/Tazammul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=nitish906&theme=xcode">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nitish906&theme=monokai&row=1&column=4">
-<h3>When not coding:</h3>
-Reading Novels 📚<br>
-Writing(Blog & Contend) ✍️<br>
-Travelling(Historical Places) 🏍️<br>
-Exercise 🏋🏻‍♂️<br>
-Creating Podcast &#127925;<br>
 <br>
-_______________________________________________________________________________________________________________________________________________________
+<h2 align="center">📊 Leetcode Statistics<h2>
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/nitish899?ext=activity" />
+<br />
+
+</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nitish906&theme=react" alt="Nitish Kumar" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nitish906&show_icons=true&theme=react" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish906&theme=react&langs_count=8" alt="Nitish Kumar" height="260px" width="25%" />
+  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=nitish906&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/>
+<div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
 <code>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
 </code>
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
