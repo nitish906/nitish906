@@ -64,14 +64,9 @@
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
 
 
-<br>
-<h2 align="center">📊 Leetcode Statistics<h2>
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/nitish899?ext=activity" />
-<br />
 
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -85,7 +80,14 @@
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish906&theme=react&langs_count=8" alt="Nitish Kumar" height="260px" width="25%" />
 <!--   <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=nitish906&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/> -->
+ 
 <div>
+ 
+<br>
+<a href="http://www.github.com/nitish">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nitish906&point=f007d8&line=f0cd07&area_color=310938&theme=react-dark" alt="GitHub Commits Graph" />
+</a>
+<br />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
