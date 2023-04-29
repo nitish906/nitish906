@@ -38,9 +38,9 @@
 </a>
 
 
-<a href="https://www.hackerrank.com/fp02_003">
+<!-- <a href="https://www.hackerrank.com/fp02_003">
   <img align="left" alt="Nitish's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/nitish906?tab=followers"><img src="https://img.shields.io/github/followers/nitish906?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 <p align="left">
