@@ -20,7 +20,7 @@
 </ul>
 
 - 📫 How to reach me **nk628497@gmail.com**
-- 👨‍💻 Checkout my Portfolio [Nitish Kumar](https://nitishkumar-fp02-003.netlify.app/)
+- 👨‍💻 Checkout my Portfolio [Nitish Kumar](https://nitish906.github.io/)
 - 💻 Checkout my Resume [Nitish_Kumar_Resume](https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=share_link)
 - 💬 Ask me about Java,mySql,Spring,REST Api
 
