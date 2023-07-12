@@ -1,15 +1,15 @@
 ### Hi there👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Nitish+Kumar!;Learning+Java+Back-end+Development...;And+Android+App+Development...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Nitish+Kumar!;Learning+Full+Stack+Development...;And+Android+App+Development...;" style="width: 100%;">
 
-<h4> A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.<h4/>
+<h4> Aspiring Full-Stack Developer with a specialization in Java, JavaScript, Reactjs, C# with Spring Framework, NodeJS Framework, and .NET Framework. Looking forward to applying and enhancing my skills and knowledge as a developer and highly energetic in backend development (spring boot, nodejs,.NET), web API design, and web development. Loves to work on a team and build a successful product in a challenge.<h4/>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
  
  💬 About me ...<br>
 <ul>
   <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
-<li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
+<li>🔭 I’m looking to collaborate with any Web Development projects</li>
 <!--   <li>📰 My First Web Page_____________</li> -->
 </ul>
 👯 I’m looking to collaborate on ..
