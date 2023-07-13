@@ -66,21 +66,21 @@
 
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 <h2 align="center">📊 My Github Stats<h2>
+ 
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nitish906&theme=react" alt="Nitish Kumar" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=nitish906&show_icons=true&theme=react" height="255px" width="47%"/>
-<div>
-  </br>
-  
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish906&theme=react&langs_count=8" alt="Nitish Kumar" height="260px" width="25%" />
+ 
+</div>
 
- <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=nitish906&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/> 
+ 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish906&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitish906&theme=github_dark)
  
-<div>
+</div>
  
 ---
 
