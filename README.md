@@ -1,6 +1,6 @@
 ### Hi there👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Nitish+Kumar!;Learning+Full+Stack+Development...;And+Specialization+In+Backend (SpringBoot, NodeJs, Asp.NET)....;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Nitish+Kumar!;Learning+Full+Stack+Development...;" style="width: 100%;">
 
 <h4> Aspiring Full-Stack Developer with a specialization in Java, JavaScript, Reactjs, C# with Spring Framework, NodeJS Framework, and .NET Framework. Looking forward to applying and enhancing my skills and knowledge as a developer and highly energetic in backend development (spring boot, nodejs,.NET), web API design, and web development. Loves to work on a team and build a successful product in a challenge.<h4/>
 
