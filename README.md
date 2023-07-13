@@ -22,26 +22,22 @@
 - 📫 How to reach me **nk628497@gmail.com**
 - 👨‍💻 Checkout my Portfolio [Nitish Kumar](https://nitish906.github.io/)
 - 💻 Checkout my Resume [Nitish_Kumar_Resume](https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=share_link)
-- 💬 Ask me about Java,mySql,Spring,REST Api
+- 💬 Ask me about Java, MySQL, Spring, REST API, JavaScript, C#, NodeJs, and Asp.NET
 
 <br/>
 ❤ Views and Followers <br/>
-<!-- <a href="https://twitter.com/MTazammul">
-  <img align="left" alt="Mohd Tazammul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
+</a>
 <a href="https://www.linkedin.com/in/nitish009/">
-  <img align="left" alt="Tazammul's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
+  <img align="left" alt="Tazammul's LinkedIn" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
 <a href="https://leetcode.com/nitish905/">
   <img align="left" alt="Tazammul's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 
-
-<!-- <a href="https://www.hackerrank.com/fp02_003">
+ <a href="https://www.hackerrank.com/fp02_003">
   <img align="left" alt="Nitish's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
-</a> -->
-<!-- <a href="https://github.com/nitish906?tab=followers"><img src="https://img.shields.io/github/followers/nitish906?label=Followers&style=social" alt="GitHub Badge"></a> -->
+</a> 
 
 <p align="left">
 <!-- <a href = "https://www.linkedin.com/in/nitish009/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
@@ -49,7 +45,7 @@
 </p>
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 <h2>Languages and Tools:</h2>
 
@@ -79,20 +75,14 @@
   
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitish906&theme=react&langs_count=8" alt="Nitish Kumar" height="260px" width="25%" />
-<!--   <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=nitish906&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/> -->
+
+ <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=nitish906&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/> 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitish906&theme=github_dark)
  
 <div>
  
-<br>
-<a href="http://www.github.com/nitish">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nitish906&point=f007d8&line=f0cd07&area_color=310938&theme=react-dark" alt="GitHub Commits Graph" />
-</a>
-<br />
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-<code>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
-</code>
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nitish906&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
