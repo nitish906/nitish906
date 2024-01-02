@@ -22,7 +22,7 @@
 - 📫 How to reach me **nk628497@gmail.com**
 - 👨‍💻 Checkout my Portfolio [Nitish Kumar](https://nitish906.github.io/)
 - 💻 Checkout my Resume [Nitish_Kumar_Resume](https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=share_link)
-- 💬 Ask me about Java,Kotlin, MySQL, Spring, REST API, JavaScript, C#, NodeJs, Android, and Asp.NET
+- 💬 Ask me about Java,Kotlin, MySQL, Spring, REST API, JavaScript, C#, NodeJs, Android, flutter, and Asp.NET
 
 <br/>
 ❤ Views and Followers <br/>
