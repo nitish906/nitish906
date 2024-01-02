@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Nitish+Kumar!;Learning+Full+Stack+Development...;" style="width: 100%;">
 
-<h4> Aspiring Full-Stack Developer with a specialization in Java, JavaScript, Reactjs, C# with Spring Framework, NodeJS Framework, and .NET Framework. Looking forward to applying and enhancing my skills and knowledge as a developer and highly energetic in backend development (spring boot, nodejs,.NET), web API design, and web development. Loves to work on a team and build a successful product in a challenge.<h4/>
+<h4> Aspiring Full-Stack Web & Android Developer with a specialization in Java, Kotlin, JavaScript,Dart, C# with Spring Framework, NodeJS Framework,Flutter Framework and .NET Framework. Looking forward to applying and enhancing my skills and knowledge as a developer and highly energetic in backend development (spring boot, nodejs,.NET,Android), web API design, and web development. Loves to work on a team and build a successful product in a challenge.<h4/>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
  
@@ -15,14 +15,14 @@
 👯 I’m looking to collaborate on ..
 <ul>
   <li>Open source Projects</li>
-  <!-- <li>Full-stack Development</li> -->
-  <li>Java Back-end Development</li>
+  <!-- <li>Full-stack Web & Android Development</li> -->
+  <li>Java Back-end & Android App Development</li>
 </ul>
 
 - 📫 How to reach me **nk628497@gmail.com**
 - 👨‍💻 Checkout my Portfolio [Nitish Kumar](https://nitish906.github.io/)
 - 💻 Checkout my Resume [Nitish_Kumar_Resume](https://drive.google.com/file/d/1e7VCIrS4qHj5NQxShQp828PBPld5sR5n/view?usp=share_link)
-- 💬 Ask me about Java, MySQL, Spring, REST API, JavaScript, C#, NodeJs, and Asp.NET
+- 💬 Ask me about Java,Kotlin, MySQL, Spring, REST API, JavaScript, C#, NodeJs, Android, and Asp.NET
 
 <br/>
 ❤ Views and Followers <br/>
